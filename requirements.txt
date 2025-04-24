@@ -1,0 +1,4 @@
+Django
+psycopg2-binary
+openpyxl
+# PRODUCTION: Add extra e.g. Server for production deployment e.g. nginx
