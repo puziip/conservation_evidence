@@ -29,6 +29,7 @@ See these links for data as per the exercise in JSON format:
 - http://127.0.0.1:8000/average_score/
 
 ## Specific Considerations for Production Set Up
+- Additional comments in the code
 - A complete README for production installation
 - For the production server use something like e.g. nginx
 - Use a proper relational database such as PostgreSQL
